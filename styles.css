@@ -32,3 +32,30 @@ h2 {
   border: 3px solid black;
   border-radius: 10%;
 }
+
+.button {
+  border-radius: 5%;
+  padding: 10px 0;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  color: white;
+  width: 200px;
+  margin-bottom: 15px;
+}
+
+.button:hover {
+  background-color: cadetblue;
+}
+.up {
+  background-color: darkgreen;
+}
+
+.save {
+  background-color: darkblue;
+}
+#save-el {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 2% 0;
+}
